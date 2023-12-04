@@ -4,4 +4,4 @@ diff = diferença
 
 O comando `git diff` mostra a diferença entre arquivos modificados
 
-Dicas: utilizar VS Code
+Dica: utilizar VS Code (working Tree)
