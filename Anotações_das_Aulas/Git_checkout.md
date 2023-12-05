@@ -9,7 +9,7 @@ Em outras palavras, o commit que especificamos após o comando `git checkout` co
 
 - Para voltar para o estado normal utilizamos o comando `git checkout main` que faz o ultimo commit ser o head
 
-- É possivel referenciar um commit N versões antes usado `~N`, por exemplo: 
+- É possivel referenciar um commit N versões antes usado `~N`, por exemplo:
 
 `git checkout HEAD ~1`
 `git checkout HEAD ~2`
