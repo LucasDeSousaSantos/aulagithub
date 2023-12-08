@@ -1,4 +1,4 @@
-# Como resolver push rejeitado
+# Como resolver push rejeitado (git pull)
 
 Para realizar um `push` no seu projeto, o seu repositorio local deve estar sincronizado com o repositorio remoto. Ou seja, se o seu repositorio local estiver atrasado em relação ao repositorio remoto, não será permitido fazer o `push`.
 
